@@ -1,6 +1,6 @@
-# DNToggleButton
+# WavyLineView
 
-A custom toggle button for changing day/night theme.
+A custom wavy line view for android.
 
 ![](https://github.com/andyxialm/WavyLineView/blob/master/art/wavyline.gif?raw=true)
 
